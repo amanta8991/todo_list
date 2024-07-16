@@ -121,3 +121,13 @@ ul li span{
 ul li span:hover{
     background-color: #edeef0;
 }
+
+
+@media(max-width:425px){
+    .todo-app{
+        padding: 40px 10px 70px;
+    }
+    button{
+        padding: 10px 30px;
+    }
+}
